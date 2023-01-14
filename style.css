@@ -54,6 +54,7 @@ header h1{
     background-image:linear-gradient(to right,var(--pink),var(--purple));
     -webkit-background-clip:text;
     -webkit-text-fill-color: transparent;
+    cursor: pointer;
 }
 #new-task-form button:hover{
     opacity: 0.8;
